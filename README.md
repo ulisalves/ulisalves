@@ -2,7 +2,7 @@
 # Ulisses Alves de Melo
 
 ### Resumo profissional
-Desenvolvedor Backend Java com aproximadamente 10 anos de experiência no desenvolvimento de soluções corporativas. Especializado em Java, Spring Boot, APIs REST e bancos de dados atuando desde o levantamento de requisitos até a implantação e sustentação de aplicações escaláveis e de alta disponibilidade.
+Desenvolvedor Backend Java com aproximadamente 10 anos de experiência no desenvolvimento de soluções corporativas. Especializado em Java, Spring Boot, APIs REST e bancos de dados, atuando desde o levantamento de requisitos até a implantação e sustentação de aplicações escaláveis e de alta disponibilidade.
 
 ### Hard Skills
 ![Java](https://img.shields.io/badge/Java-ED8B00)
@@ -25,6 +25,7 @@ Desenvolvedor Backend Java com aproximadamente 10 anos de experiência no desenv
 ![Maven](https://img.shields.io/badge/Maven-C71A36)
 
 ![JUnit](https://img.shields.io/badge/JUnit-25A162)
+![Mockito](https://img.shields.io/badge/Mockito-25A162)
 
 ![Azure](https://img.shields.io/badge/Azure-0078D4)
 ![AWS](https://img.shields.io/badge/AWS-FF9900)
@@ -36,9 +37,13 @@ Desenvolvedor Backend Java com aproximadamente 10 anos de experiência no desenv
 ![Foco no Cliente](https://img.shields.io/badge/Foco_no_Cliente-purple)
 ![Aprendizado Contínuo](https://img.shields.io/badge/Aprendizado_Contínuo-yellow)
 
+---
+
 ### Social Media
-[![LINKDIN](https://img.shields.io/badge/Linkdin-blue)](https://www.linkedin.com/in/ulisses-alves-2877b576/)
+[![LINKDIN](https://img.shields.io/badge/Linkdin-blue)](https://www.linkedin.com/in/ulisalves/)
 [![GitHub](https://img.shields.io/badge/GitHub-black)](https://github.com/ulisalves)
 
 ### GitHub Stats
+<!--![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ulisalves&show_icons=true&theme=transparent) -->
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulisalves&layout=compact)
